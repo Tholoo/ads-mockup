@@ -1,0 +1,3575 @@
+[
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 1,
+        "fields": {
+            "ad": 136,
+            "ip": "102.243.242.235",
+            "created_at": "2023-05-27 13:04:01"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 2,
+        "fields": {
+            "ad": 806,
+            "ip": "181.141.94.119",
+            "created_at": "2023-12-03 09:20:46"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 3,
+        "fields": {
+            "ad": 363,
+            "ip": "241.254.5.42",
+            "created_at": "2023-08-27 19:28:49"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 4,
+        "fields": {
+            "ad": 638,
+            "ip": "156.230.251.235",
+            "created_at": "2023-12-12 19:35:35"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 5,
+        "fields": {
+            "ad": 559,
+            "ip": "233.180.50.158",
+            "created_at": "2023-06-07 14:32:29"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 6,
+        "fields": {
+            "ad": 407,
+            "ip": "157.155.181.46",
+            "created_at": "2023-04-21 10:09:29"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 7,
+        "fields": {
+            "ad": 345,
+            "ip": "134.205.172.227",
+            "created_at": "2023-07-30 13:05:07"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 8,
+        "fields": {
+            "ad": 284,
+            "ip": "48.166.192.29",
+            "created_at": "2023-10-01 07:02:45"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 9,
+        "fields": {
+            "ad": 515,
+            "ip": "202.88.225.192",
+            "created_at": "2023-02-13 17:58:58"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 10,
+        "fields": {
+            "ad": 847,
+            "ip": "178.150.151.37",
+            "created_at": "2023-10-18 04:19:54"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 11,
+        "fields": {
+            "ad": 758,
+            "ip": "39.233.20.111",
+            "created_at": "2023-12-20 22:29:32"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 12,
+        "fields": {
+            "ad": 896,
+            "ip": "15.117.116.114",
+            "created_at": "2023-06-30 07:37:26"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 13,
+        "fields": {
+            "ad": 493,
+            "ip": "56.204.57.26",
+            "created_at": "2023-06-19 14:06:28"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 14,
+        "fields": {
+            "ad": 320,
+            "ip": "174.132.6.142",
+            "created_at": "2023-03-22 01:35:42"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 15,
+        "fields": {
+            "ad": 49,
+            "ip": "174.224.176.1",
+            "created_at": "2023-01-22 07:38:05"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 16,
+        "fields": {
+            "ad": 392,
+            "ip": "78.128.129.70",
+            "created_at": "2023-08-29 19:36:44"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 17,
+        "fields": {
+            "ad": 252,
+            "ip": "180.92.11.202",
+            "created_at": "2023-03-20 06:11:18"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 18,
+        "fields": {
+            "ad": 630,
+            "ip": "166.239.95.147",
+            "created_at": "2023-09-24 21:46:34"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 19,
+        "fields": {
+            "ad": 207,
+            "ip": "219.202.100.47",
+            "created_at": "2023-10-13 02:16:50"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 20,
+        "fields": {
+            "ad": 482,
+            "ip": "16.148.70.33",
+            "created_at": "2023-07-04 04:40:12"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 21,
+        "fields": {
+            "ad": 288,
+            "ip": "4.230.64.233",
+            "created_at": "2023-10-29 15:56:40"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 22,
+        "fields": {
+            "ad": 694,
+            "ip": "248.137.182.9",
+            "created_at": "2023-02-18 15:40:45"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 23,
+        "fields": {
+            "ad": 511,
+            "ip": "177.142.191.236",
+            "created_at": "2023-08-05 01:22:05"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 24,
+        "fields": {
+            "ad": 558,
+            "ip": "235.50.200.205",
+            "created_at": "2023-04-23 16:23:28"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 25,
+        "fields": {
+            "ad": 77,
+            "ip": "236.191.69.55",
+            "created_at": "2023-10-02 08:46:54"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 26,
+        "fields": {
+            "ad": 517,
+            "ip": "49.39.146.224",
+            "created_at": "2023-03-22 03:05:16"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 27,
+        "fields": {
+            "ad": 166,
+            "ip": "196.95.105.164",
+            "created_at": "2023-09-14 14:08:38"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 28,
+        "fields": {
+            "ad": 480,
+            "ip": "46.237.165.103",
+            "created_at": "2023-04-19 14:14:41"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 29,
+        "fields": {
+            "ad": 19,
+            "ip": "173.49.66.138",
+            "created_at": "2023-07-16 21:51:25"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 30,
+        "fields": {
+            "ad": 233,
+            "ip": "136.176.83.231",
+            "created_at": "2023-08-08 22:15:41"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 31,
+        "fields": {
+            "ad": 642,
+            "ip": "26.65.13.252",
+            "created_at": "2023-09-22 19:49:30"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 32,
+        "fields": {
+            "ad": 357,
+            "ip": "218.145.148.79",
+            "created_at": "2023-09-18 16:43:47"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 33,
+        "fields": {
+            "ad": 315,
+            "ip": "31.105.206.209",
+            "created_at": "2023-02-21 00:14:23"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 34,
+        "fields": {
+            "ad": 159,
+            "ip": "29.41.124.81",
+            "created_at": "2023-10-29 17:26:16"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 35,
+        "fields": {
+            "ad": 653,
+            "ip": "80.148.26.24",
+            "created_at": "2023-11-12 03:00:33"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 36,
+        "fields": {
+            "ad": 404,
+            "ip": "185.183.201.54",
+            "created_at": "2023-06-10 08:52:06"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 37,
+        "fields": {
+            "ad": 436,
+            "ip": "207.81.151.143",
+            "created_at": "2023-10-08 09:15:57"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 38,
+        "fields": {
+            "ad": 2,
+            "ip": "221.48.231.150",
+            "created_at": "2023-06-13 08:02:52"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 39,
+        "fields": {
+            "ad": 570,
+            "ip": "144.44.174.90",
+            "created_at": "2023-02-17 10:04:36"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 40,
+        "fields": {
+            "ad": 263,
+            "ip": "137.208.141.220",
+            "created_at": "2023-11-25 10:11:33"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 41,
+        "fields": {
+            "ad": 572,
+            "ip": "198.251.178.183",
+            "created_at": "2023-05-07 08:03:44"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 42,
+        "fields": {
+            "ad": 385,
+            "ip": "123.202.13.104",
+            "created_at": "2023-03-02 04:09:11"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 43,
+        "fields": {
+            "ad": 884,
+            "ip": "142.41.76.14",
+            "created_at": "2023-10-06 01:02:30"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 44,
+        "fields": {
+            "ad": 620,
+            "ip": "6.12.58.229",
+            "created_at": "2023-11-14 09:23:30"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 45,
+        "fields": {
+            "ad": 554,
+            "ip": "123.208.228.62",
+            "created_at": "2023-12-23 08:40:29"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 46,
+        "fields": {
+            "ad": 444,
+            "ip": "155.116.10.86",
+            "created_at": "2023-01-11 11:37:32"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 47,
+        "fields": {
+            "ad": 926,
+            "ip": "66.238.23.65",
+            "created_at": "2023-10-03 22:46:18"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 48,
+        "fields": {
+            "ad": 529,
+            "ip": "169.83.192.43",
+            "created_at": "2023-02-14 14:49:58"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 49,
+        "fields": {
+            "ad": 819,
+            "ip": "53.168.175.15",
+            "created_at": "2023-04-06 10:13:36"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 50,
+        "fields": {
+            "ad": 375,
+            "ip": "63.240.187.181",
+            "created_at": "2023-10-08 07:15:53"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 51,
+        "fields": {
+            "ad": 756,
+            "ip": "90.67.153.63",
+            "created_at": "2023-11-13 11:10:25"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 52,
+        "fields": {
+            "ad": 815,
+            "ip": "175.221.154.251",
+            "created_at": "2023-11-13 16:59:34"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 53,
+        "fields": {
+            "ad": 671,
+            "ip": "20.90.40.108",
+            "created_at": "2023-10-17 23:13:57"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 54,
+        "fields": {
+            "ad": 773,
+            "ip": "116.216.68.58",
+            "created_at": "2023-02-09 20:46:40"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 55,
+        "fields": {
+            "ad": 682,
+            "ip": "52.7.176.56",
+            "created_at": "2023-04-01 05:02:22"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 56,
+        "fields": {
+            "ad": 74,
+            "ip": "7.45.34.104",
+            "created_at": "2023-02-15 20:49:32"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 57,
+        "fields": {
+            "ad": 499,
+            "ip": "6.66.94.243",
+            "created_at": "2023-12-12 09:55:03"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 58,
+        "fields": {
+            "ad": 828,
+            "ip": "251.241.181.217",
+            "created_at": "2023-11-07 06:03:05"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 59,
+        "fields": {
+            "ad": 31,
+            "ip": "149.194.223.206",
+            "created_at": "2023-05-15 10:44:31"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 60,
+        "fields": {
+            "ad": 791,
+            "ip": "227.95.191.45",
+            "created_at": "2023-01-13 10:12:09"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 61,
+        "fields": {
+            "ad": 138,
+            "ip": "4.50.13.128",
+            "created_at": "2023-09-19 12:57:02"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 62,
+        "fields": {
+            "ad": 652,
+            "ip": "63.161.105.20",
+            "created_at": "2023-10-28 12:47:17"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 63,
+        "fields": {
+            "ad": 134,
+            "ip": "176.68.51.157",
+            "created_at": "2023-05-31 12:28:04"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 64,
+        "fields": {
+            "ad": 934,
+            "ip": "180.239.214.173",
+            "created_at": "2023-07-24 05:53:59"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 65,
+        "fields": {
+            "ad": 851,
+            "ip": "46.5.94.193",
+            "created_at": "2023-06-22 04:23:17"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 66,
+        "fields": {
+            "ad": 324,
+            "ip": "119.189.26.34",
+            "created_at": "2023-08-25 15:00:20"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 67,
+        "fields": {
+            "ad": 572,
+            "ip": "47.115.228.153",
+            "created_at": "2023-12-18 10:58:10"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 68,
+        "fields": {
+            "ad": 76,
+            "ip": "155.27.194.137",
+            "created_at": "2023-07-14 06:18:12"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 69,
+        "fields": {
+            "ad": 769,
+            "ip": "110.222.192.174",
+            "created_at": "2023-09-06 21:30:10"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 70,
+        "fields": {
+            "ad": 808,
+            "ip": "234.5.17.56",
+            "created_at": "2023-10-02 13:52:52"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 71,
+        "fields": {
+            "ad": 624,
+            "ip": "132.184.80.149",
+            "created_at": "2023-11-18 08:00:08"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 72,
+        "fields": {
+            "ad": 92,
+            "ip": "148.154.151.63",
+            "created_at": "2023-03-17 13:03:05"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 73,
+        "fields": {
+            "ad": 296,
+            "ip": "212.252.8.166",
+            "created_at": "2023-10-22 22:53:20"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 74,
+        "fields": {
+            "ad": 571,
+            "ip": "168.230.237.232",
+            "created_at": "2023-05-10 18:48:25"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 75,
+        "fields": {
+            "ad": 823,
+            "ip": "180.230.0.249",
+            "created_at": "2023-04-04 19:29:40"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 76,
+        "fields": {
+            "ad": 906,
+            "ip": "152.108.70.70",
+            "created_at": "2023-09-15 11:14:31"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 77,
+        "fields": {
+            "ad": 714,
+            "ip": "147.121.60.103",
+            "created_at": "2023-07-09 17:06:25"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 78,
+        "fields": {
+            "ad": 934,
+            "ip": "160.91.76.168",
+            "created_at": "2023-06-25 00:04:08"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 79,
+        "fields": {
+            "ad": 718,
+            "ip": "33.76.54.89",
+            "created_at": "2023-05-09 12:11:58"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 80,
+        "fields": {
+            "ad": 341,
+            "ip": "252.51.73.178",
+            "created_at": "2023-11-12 20:22:55"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 81,
+        "fields": {
+            "ad": 148,
+            "ip": "73.189.161.73",
+            "created_at": "2023-08-02 05:21:09"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 82,
+        "fields": {
+            "ad": 477,
+            "ip": "49.8.29.45",
+            "created_at": "2023-08-31 21:03:24"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 83,
+        "fields": {
+            "ad": 957,
+            "ip": "237.170.5.169",
+            "created_at": "2023-01-10 04:08:55"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 84,
+        "fields": {
+            "ad": 118,
+            "ip": "155.91.202.117",
+            "created_at": "2023-06-28 21:38:25"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 85,
+        "fields": {
+            "ad": 120,
+            "ip": "25.118.112.246",
+            "created_at": "2023-10-12 18:38:00"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 86,
+        "fields": {
+            "ad": 753,
+            "ip": "130.64.215.22",
+            "created_at": "2023-08-27 11:06:32"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 87,
+        "fields": {
+            "ad": 768,
+            "ip": "62.96.33.82",
+            "created_at": "2023-02-17 07:47:14"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 88,
+        "fields": {
+            "ad": 235,
+            "ip": "4.14.11.160",
+            "created_at": "2023-03-01 03:44:31"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 89,
+        "fields": {
+            "ad": 48,
+            "ip": "180.23.106.208",
+            "created_at": "2023-02-22 01:35:54"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 90,
+        "fields": {
+            "ad": 712,
+            "ip": "235.41.173.3",
+            "created_at": "2023-12-29 07:20:30"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 91,
+        "fields": {
+            "ad": 437,
+            "ip": "136.117.38.181",
+            "created_at": "2023-06-18 16:38:53"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 92,
+        "fields": {
+            "ad": 689,
+            "ip": "165.54.149.192",
+            "created_at": "2023-11-18 14:08:53"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 93,
+        "fields": {
+            "ad": 505,
+            "ip": "217.54.165.46",
+            "created_at": "2023-12-11 09:36:43"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 94,
+        "fields": {
+            "ad": 220,
+            "ip": "163.97.67.133",
+            "created_at": "2023-05-14 12:09:25"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 95,
+        "fields": {
+            "ad": 437,
+            "ip": "217.119.172.53",
+            "created_at": "2023-07-15 17:52:11"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 96,
+        "fields": {
+            "ad": 918,
+            "ip": "225.30.175.97",
+            "created_at": "2023-11-21 08:08:18"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 97,
+        "fields": {
+            "ad": 485,
+            "ip": "194.74.46.17",
+            "created_at": "2023-08-10 13:38:46"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 98,
+        "fields": {
+            "ad": 614,
+            "ip": "171.140.34.164",
+            "created_at": "2023-12-23 04:55:11"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 99,
+        "fields": {
+            "ad": 968,
+            "ip": "10.52.24.133",
+            "created_at": "2023-02-04 12:27:28"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 100,
+        "fields": {
+            "ad": 463,
+            "ip": "63.176.242.242",
+            "created_at": "2023-04-10 16:11:52"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 101,
+        "fields": {
+            "ad": 946,
+            "ip": "245.181.169.7",
+            "created_at": "2023-08-16 22:53:48"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 102,
+        "fields": {
+            "ad": 310,
+            "ip": "209.114.173.243",
+            "created_at": "2023-02-09 10:56:52"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 103,
+        "fields": {
+            "ad": 354,
+            "ip": "45.38.39.125",
+            "created_at": "2023-04-19 22:11:38"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 104,
+        "fields": {
+            "ad": 443,
+            "ip": "219.11.36.129",
+            "created_at": "2023-08-22 11:10:05"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 105,
+        "fields": {
+            "ad": 965,
+            "ip": "231.121.78.156",
+            "created_at": "2023-10-06 01:24:14"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 106,
+        "fields": {
+            "ad": 502,
+            "ip": "15.102.7.168",
+            "created_at": "2023-02-05 18:49:38"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 107,
+        "fields": {
+            "ad": 132,
+            "ip": "156.83.19.74",
+            "created_at": "2023-01-23 00:47:50"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 108,
+        "fields": {
+            "ad": 737,
+            "ip": "17.192.9.149",
+            "created_at": "2023-08-29 19:05:14"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 109,
+        "fields": {
+            "ad": 722,
+            "ip": "56.197.134.169",
+            "created_at": "2024-01-03 19:35:39"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 110,
+        "fields": {
+            "ad": 760,
+            "ip": "92.0.45.39",
+            "created_at": "2023-02-19 06:37:07"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 111,
+        "fields": {
+            "ad": 450,
+            "ip": "83.153.61.52",
+            "created_at": "2023-10-02 23:37:44"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 112,
+        "fields": {
+            "ad": 287,
+            "ip": "1.168.43.79",
+            "created_at": "2023-03-06 09:05:41"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 113,
+        "fields": {
+            "ad": 109,
+            "ip": "90.133.36.156",
+            "created_at": "2023-02-21 06:51:37"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 114,
+        "fields": {
+            "ad": 912,
+            "ip": "211.218.69.247",
+            "created_at": "2023-03-11 12:13:10"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 115,
+        "fields": {
+            "ad": 175,
+            "ip": "243.125.240.254",
+            "created_at": "2023-11-09 05:07:49"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 116,
+        "fields": {
+            "ad": 288,
+            "ip": "208.86.33.83",
+            "created_at": "2023-06-23 12:48:38"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 117,
+        "fields": {
+            "ad": 772,
+            "ip": "68.169.130.112",
+            "created_at": "2023-01-19 21:25:38"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 118,
+        "fields": {
+            "ad": 656,
+            "ip": "214.196.253.192",
+            "created_at": "2023-04-08 17:23:09"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 119,
+        "fields": {
+            "ad": 359,
+            "ip": "239.241.179.51",
+            "created_at": "2023-10-14 03:19:24"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 120,
+        "fields": {
+            "ad": 786,
+            "ip": "9.251.222.43",
+            "created_at": "2023-11-28 21:35:06"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 121,
+        "fields": {
+            "ad": 840,
+            "ip": "158.97.132.203",
+            "created_at": "2023-02-11 06:02:43"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 122,
+        "fields": {
+            "ad": 61,
+            "ip": "10.103.2.192",
+            "created_at": "2023-04-08 02:31:05"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 123,
+        "fields": {
+            "ad": 167,
+            "ip": "207.119.40.42",
+            "created_at": "2023-05-29 14:54:34"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 124,
+        "fields": {
+            "ad": 409,
+            "ip": "20.174.84.101",
+            "created_at": "2023-05-03 11:02:15"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 125,
+        "fields": {
+            "ad": 85,
+            "ip": "231.154.53.74",
+            "created_at": "2023-01-17 21:45:54"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 126,
+        "fields": {
+            "ad": 159,
+            "ip": "100.16.33.106",
+            "created_at": "2023-07-21 12:17:52"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 127,
+        "fields": {
+            "ad": 199,
+            "ip": "127.100.242.207",
+            "created_at": "2023-11-10 22:25:11"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 128,
+        "fields": {
+            "ad": 907,
+            "ip": "63.130.182.214",
+            "created_at": "2023-02-09 21:41:24"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 129,
+        "fields": {
+            "ad": 350,
+            "ip": "126.127.223.83",
+            "created_at": "2023-12-24 20:19:57"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 130,
+        "fields": {
+            "ad": 249,
+            "ip": "18.161.29.41",
+            "created_at": "2023-06-23 12:15:27"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 131,
+        "fields": {
+            "ad": 202,
+            "ip": "125.59.187.120",
+            "created_at": "2023-09-04 06:11:28"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 132,
+        "fields": {
+            "ad": 962,
+            "ip": "250.114.49.241",
+            "created_at": "2023-05-20 02:17:32"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 133,
+        "fields": {
+            "ad": 757,
+            "ip": "229.158.39.98",
+            "created_at": "2023-04-17 15:51:53"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 134,
+        "fields": {
+            "ad": 254,
+            "ip": "191.108.100.253",
+            "created_at": "2023-07-18 12:11:51"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 135,
+        "fields": {
+            "ad": 568,
+            "ip": "27.157.195.82",
+            "created_at": "2023-09-14 19:57:43"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 136,
+        "fields": {
+            "ad": 840,
+            "ip": "55.132.135.162",
+            "created_at": "2023-03-22 16:30:41"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 137,
+        "fields": {
+            "ad": 470,
+            "ip": "253.214.71.187",
+            "created_at": "2023-11-26 16:19:06"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 138,
+        "fields": {
+            "ad": 236,
+            "ip": "122.73.232.109",
+            "created_at": "2023-08-30 11:37:06"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 139,
+        "fields": {
+            "ad": 397,
+            "ip": "18.25.164.239",
+            "created_at": "2023-04-14 18:53:46"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 140,
+        "fields": {
+            "ad": 782,
+            "ip": "205.78.201.35",
+            "created_at": "2023-09-10 16:50:58"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 141,
+        "fields": {
+            "ad": 216,
+            "ip": "88.224.179.249",
+            "created_at": "2023-05-06 01:06:52"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 142,
+        "fields": {
+            "ad": 569,
+            "ip": "109.205.73.254",
+            "created_at": "2023-09-05 22:39:50"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 143,
+        "fields": {
+            "ad": 181,
+            "ip": "253.134.213.80",
+            "created_at": "2023-09-30 22:09:46"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 144,
+        "fields": {
+            "ad": 874,
+            "ip": "236.137.229.2",
+            "created_at": "2023-02-14 05:54:46"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 145,
+        "fields": {
+            "ad": 644,
+            "ip": "11.20.143.163",
+            "created_at": "2023-10-12 03:34:10"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 146,
+        "fields": {
+            "ad": 911,
+            "ip": "46.214.208.146",
+            "created_at": "2023-07-08 09:05:01"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 147,
+        "fields": {
+            "ad": 56,
+            "ip": "232.244.175.2",
+            "created_at": "2023-02-27 22:53:14"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 148,
+        "fields": {
+            "ad": 755,
+            "ip": "152.152.13.58",
+            "created_at": "2023-05-08 23:38:33"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 149,
+        "fields": {
+            "ad": 336,
+            "ip": "114.38.236.190",
+            "created_at": "2023-08-13 08:11:32"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 150,
+        "fields": {
+            "ad": 599,
+            "ip": "106.207.227.9",
+            "created_at": "2023-12-12 21:49:08"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 151,
+        "fields": {
+            "ad": 10,
+            "ip": "59.78.125.39",
+            "created_at": "2023-05-23 07:10:07"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 152,
+        "fields": {
+            "ad": 74,
+            "ip": "105.59.13.94",
+            "created_at": "2023-07-16 15:43:42"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 153,
+        "fields": {
+            "ad": 404,
+            "ip": "201.141.132.58",
+            "created_at": "2023-09-30 22:35:22"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 154,
+        "fields": {
+            "ad": 32,
+            "ip": "155.176.236.151",
+            "created_at": "2023-09-28 03:19:59"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 155,
+        "fields": {
+            "ad": 723,
+            "ip": "141.219.121.253",
+            "created_at": "2023-12-16 11:46:52"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 156,
+        "fields": {
+            "ad": 228,
+            "ip": "194.155.240.191",
+            "created_at": "2023-01-12 01:48:01"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 157,
+        "fields": {
+            "ad": 799,
+            "ip": "108.214.80.10",
+            "created_at": "2023-08-17 04:19:46"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 158,
+        "fields": {
+            "ad": 696,
+            "ip": "179.54.17.137",
+            "created_at": "2023-10-15 09:42:48"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 159,
+        "fields": {
+            "ad": 858,
+            "ip": "16.30.30.241",
+            "created_at": "2023-02-06 01:52:19"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 160,
+        "fields": {
+            "ad": 214,
+            "ip": "254.204.126.94",
+            "created_at": "2023-03-03 04:47:45"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 161,
+        "fields": {
+            "ad": 429,
+            "ip": "24.184.237.57",
+            "created_at": "2023-02-26 19:30:15"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 162,
+        "fields": {
+            "ad": 890,
+            "ip": "83.70.53.84",
+            "created_at": "2023-07-11 04:33:20"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 163,
+        "fields": {
+            "ad": 662,
+            "ip": "235.17.3.134",
+            "created_at": "2023-03-28 00:23:11"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 164,
+        "fields": {
+            "ad": 106,
+            "ip": "11.120.90.206",
+            "created_at": "2023-10-05 15:56:48"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 165,
+        "fields": {
+            "ad": 239,
+            "ip": "163.124.42.168",
+            "created_at": "2023-08-12 07:48:45"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 166,
+        "fields": {
+            "ad": 817,
+            "ip": "2.143.82.112",
+            "created_at": "2023-07-28 17:00:18"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 167,
+        "fields": {
+            "ad": 539,
+            "ip": "119.166.222.238",
+            "created_at": "2023-05-30 08:41:57"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 168,
+        "fields": {
+            "ad": 245,
+            "ip": "246.208.83.184",
+            "created_at": "2023-01-24 22:19:05"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 169,
+        "fields": {
+            "ad": 703,
+            "ip": "170.131.57.195",
+            "created_at": "2023-12-21 05:43:11"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 170,
+        "fields": {
+            "ad": 651,
+            "ip": "138.152.180.111",
+            "created_at": "2023-11-10 23:25:02"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 171,
+        "fields": {
+            "ad": 488,
+            "ip": "218.184.32.142",
+            "created_at": "2023-01-23 07:53:40"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 172,
+        "fields": {
+            "ad": 999,
+            "ip": "134.177.221.202",
+            "created_at": "2023-08-08 15:30:58"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 173,
+        "fields": {
+            "ad": 465,
+            "ip": "10.83.90.5",
+            "created_at": "2023-10-02 00:14:25"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 174,
+        "fields": {
+            "ad": 99,
+            "ip": "26.237.238.184",
+            "created_at": "2023-07-21 12:38:12"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 175,
+        "fields": {
+            "ad": 697,
+            "ip": "83.117.123.87",
+            "created_at": "2023-08-13 13:34:56"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 176,
+        "fields": {
+            "ad": 350,
+            "ip": "154.253.167.172",
+            "created_at": "2023-06-28 22:58:36"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 177,
+        "fields": {
+            "ad": 77,
+            "ip": "251.27.160.217",
+            "created_at": "2023-11-20 09:35:14"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 178,
+        "fields": {
+            "ad": 586,
+            "ip": "56.93.7.228",
+            "created_at": "2023-06-25 04:03:18"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 179,
+        "fields": {
+            "ad": 730,
+            "ip": "235.57.204.170",
+            "created_at": "2023-02-01 20:11:37"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 180,
+        "fields": {
+            "ad": 421,
+            "ip": "232.153.218.225",
+            "created_at": "2023-08-11 03:23:24"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 181,
+        "fields": {
+            "ad": 476,
+            "ip": "230.105.149.239",
+            "created_at": "2023-06-16 07:53:37"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 182,
+        "fields": {
+            "ad": 631,
+            "ip": "15.120.41.23",
+            "created_at": "2023-04-01 16:46:31"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 183,
+        "fields": {
+            "ad": 467,
+            "ip": "30.158.74.165",
+            "created_at": "2023-10-23 22:09:33"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 184,
+        "fields": {
+            "ad": 566,
+            "ip": "29.173.127.172",
+            "created_at": "2023-03-01 17:03:06"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 185,
+        "fields": {
+            "ad": 374,
+            "ip": "88.120.100.98",
+            "created_at": "2023-12-20 10:12:20"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 186,
+        "fields": {
+            "ad": 201,
+            "ip": "90.128.151.137",
+            "created_at": "2023-01-23 16:51:06"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 187,
+        "fields": {
+            "ad": 861,
+            "ip": "214.21.231.209",
+            "created_at": "2023-11-12 09:13:49"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 188,
+        "fields": {
+            "ad": 513,
+            "ip": "121.163.161.72",
+            "created_at": "2023-03-14 08:05:47"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 189,
+        "fields": {
+            "ad": 341,
+            "ip": "102.223.94.162",
+            "created_at": "2023-09-03 03:01:32"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 190,
+        "fields": {
+            "ad": 543,
+            "ip": "245.105.245.147",
+            "created_at": "2023-09-28 01:37:46"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 191,
+        "fields": {
+            "ad": 904,
+            "ip": "160.148.227.233",
+            "created_at": "2023-04-26 01:28:35"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 192,
+        "fields": {
+            "ad": 435,
+            "ip": "133.73.151.253",
+            "created_at": "2023-11-24 22:56:02"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 193,
+        "fields": {
+            "ad": 63,
+            "ip": "78.255.170.29",
+            "created_at": "2024-01-05 17:48:11"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 194,
+        "fields": {
+            "ad": 693,
+            "ip": "83.249.34.239",
+            "created_at": "2023-12-06 10:27:34"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 195,
+        "fields": {
+            "ad": 719,
+            "ip": "17.74.175.171",
+            "created_at": "2023-07-26 15:47:00"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 196,
+        "fields": {
+            "ad": 454,
+            "ip": "248.13.227.2",
+            "created_at": "2023-06-24 19:58:38"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 197,
+        "fields": {
+            "ad": 707,
+            "ip": "221.32.169.106",
+            "created_at": "2023-07-28 09:46:51"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 198,
+        "fields": {
+            "ad": 265,
+            "ip": "2.59.247.11",
+            "created_at": "2023-06-23 14:15:22"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 199,
+        "fields": {
+            "ad": 642,
+            "ip": "197.241.150.138",
+            "created_at": "2023-11-22 19:17:27"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 200,
+        "fields": {
+            "ad": 570,
+            "ip": "46.154.161.143",
+            "created_at": "2023-11-07 16:07:07"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 201,
+        "fields": {
+            "ad": 122,
+            "ip": "27.52.81.100",
+            "created_at": "2023-06-27 18:52:10"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 202,
+        "fields": {
+            "ad": 262,
+            "ip": "36.120.200.118",
+            "created_at": "2023-05-20 21:16:57"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 203,
+        "fields": {
+            "ad": 130,
+            "ip": "20.181.53.8",
+            "created_at": "2023-10-29 05:18:01"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 204,
+        "fields": {
+            "ad": 184,
+            "ip": "161.173.72.208",
+            "created_at": "2023-10-17 07:39:56"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 205,
+        "fields": {
+            "ad": 471,
+            "ip": "224.185.54.211",
+            "created_at": "2023-03-13 15:21:20"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 206,
+        "fields": {
+            "ad": 366,
+            "ip": "109.95.204.40",
+            "created_at": "2023-08-07 13:39:13"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 207,
+        "fields": {
+            "ad": 201,
+            "ip": "255.199.71.59",
+            "created_at": "2023-01-24 13:09:11"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 208,
+        "fields": {
+            "ad": 658,
+            "ip": "74.85.237.100",
+            "created_at": "2023-11-25 13:46:08"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 209,
+        "fields": {
+            "ad": 993,
+            "ip": "14.53.34.136",
+            "created_at": "2023-05-19 01:58:08"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 210,
+        "fields": {
+            "ad": 328,
+            "ip": "61.71.115.45",
+            "created_at": "2023-06-11 18:47:01"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 211,
+        "fields": {
+            "ad": 574,
+            "ip": "176.34.53.186",
+            "created_at": "2023-06-04 18:17:32"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 212,
+        "fields": {
+            "ad": 491,
+            "ip": "87.166.49.170",
+            "created_at": "2023-01-21 05:15:10"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 213,
+        "fields": {
+            "ad": 250,
+            "ip": "98.95.129.44",
+            "created_at": "2023-12-05 23:51:22"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 214,
+        "fields": {
+            "ad": 537,
+            "ip": "231.216.130.167",
+            "created_at": "2023-03-15 05:48:40"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 215,
+        "fields": {
+            "ad": 360,
+            "ip": "198.228.255.50",
+            "created_at": "2023-11-19 07:56:56"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 216,
+        "fields": {
+            "ad": 268,
+            "ip": "85.34.106.111",
+            "created_at": "2023-12-27 06:26:53"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 217,
+        "fields": {
+            "ad": 755,
+            "ip": "86.200.30.83",
+            "created_at": "2023-01-16 21:19:26"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 218,
+        "fields": {
+            "ad": 704,
+            "ip": "52.125.229.77",
+            "created_at": "2023-11-26 14:25:18"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 219,
+        "fields": {
+            "ad": 977,
+            "ip": "197.162.127.137",
+            "created_at": "2023-12-25 18:55:07"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 220,
+        "fields": {
+            "ad": 703,
+            "ip": "206.155.174.9",
+            "created_at": "2023-04-15 05:20:39"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 221,
+        "fields": {
+            "ad": 631,
+            "ip": "198.237.31.116",
+            "created_at": "2023-01-07 07:41:23"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 222,
+        "fields": {
+            "ad": 737,
+            "ip": "90.43.74.68",
+            "created_at": "2023-02-11 23:16:53"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 223,
+        "fields": {
+            "ad": 744,
+            "ip": "37.195.81.160",
+            "created_at": "2023-03-27 09:41:22"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 224,
+        "fields": {
+            "ad": 676,
+            "ip": "239.29.143.158",
+            "created_at": "2023-06-20 23:04:52"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 225,
+        "fields": {
+            "ad": 521,
+            "ip": "69.37.192.58",
+            "created_at": "2023-09-10 21:14:56"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 226,
+        "fields": {
+            "ad": 336,
+            "ip": "172.66.160.252",
+            "created_at": "2023-10-18 14:51:20"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 227,
+        "fields": {
+            "ad": 485,
+            "ip": "75.137.123.137",
+            "created_at": "2023-01-07 14:51:12"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 228,
+        "fields": {
+            "ad": 371,
+            "ip": "15.177.102.109",
+            "created_at": "2023-12-10 14:12:54"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 229,
+        "fields": {
+            "ad": 206,
+            "ip": "135.123.233.208",
+            "created_at": "2023-06-22 03:27:37"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 230,
+        "fields": {
+            "ad": 937,
+            "ip": "151.201.59.19",
+            "created_at": "2024-01-03 07:34:19"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 231,
+        "fields": {
+            "ad": 693,
+            "ip": "227.28.104.44",
+            "created_at": "2023-12-22 23:08:34"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 232,
+        "fields": {
+            "ad": 739,
+            "ip": "143.35.215.182",
+            "created_at": "2023-09-30 13:50:27"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 233,
+        "fields": {
+            "ad": 106,
+            "ip": "69.16.37.133",
+            "created_at": "2023-10-24 20:49:10"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 234,
+        "fields": {
+            "ad": 40,
+            "ip": "246.199.113.192",
+            "created_at": "2023-06-21 02:50:59"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 235,
+        "fields": {
+            "ad": 107,
+            "ip": "214.67.168.231",
+            "created_at": "2023-02-01 05:10:38"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 236,
+        "fields": {
+            "ad": 299,
+            "ip": "98.13.230.97",
+            "created_at": "2023-05-30 10:21:42"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 237,
+        "fields": {
+            "ad": 306,
+            "ip": "6.212.228.118",
+            "created_at": "2023-09-09 23:54:44"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 238,
+        "fields": {
+            "ad": 862,
+            "ip": "149.26.238.93",
+            "created_at": "2023-04-05 03:25:41"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 239,
+        "fields": {
+            "ad": 653,
+            "ip": "34.56.90.139",
+            "created_at": "2023-04-29 03:06:22"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 240,
+        "fields": {
+            "ad": 356,
+            "ip": "136.119.97.155",
+            "created_at": "2023-10-25 11:26:44"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 241,
+        "fields": {
+            "ad": 685,
+            "ip": "25.117.187.109",
+            "created_at": "2023-09-11 09:46:57"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 242,
+        "fields": {
+            "ad": 839,
+            "ip": "86.23.192.121",
+            "created_at": "2023-06-15 14:32:54"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 243,
+        "fields": {
+            "ad": 429,
+            "ip": "126.91.141.212",
+            "created_at": "2023-11-04 22:55:13"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 244,
+        "fields": {
+            "ad": 105,
+            "ip": "98.34.154.97",
+            "created_at": "2023-02-14 21:05:05"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 245,
+        "fields": {
+            "ad": 642,
+            "ip": "160.48.18.202",
+            "created_at": "2023-08-22 19:41:57"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 246,
+        "fields": {
+            "ad": 540,
+            "ip": "251.233.0.50",
+            "created_at": "2023-07-05 06:10:52"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 247,
+        "fields": {
+            "ad": 520,
+            "ip": "142.174.111.135",
+            "created_at": "2023-09-21 15:37:55"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 248,
+        "fields": {
+            "ad": 501,
+            "ip": "130.154.114.34",
+            "created_at": "2023-03-31 20:52:24"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 249,
+        "fields": {
+            "ad": 846,
+            "ip": "173.196.235.106",
+            "created_at": "2023-09-24 21:59:47"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 250,
+        "fields": {
+            "ad": 652,
+            "ip": "212.41.191.39",
+            "created_at": "2023-02-10 17:01:20"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 251,
+        "fields": {
+            "ad": 717,
+            "ip": "88.49.80.83",
+            "created_at": "2023-05-24 10:42:31"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 252,
+        "fields": {
+            "ad": 49,
+            "ip": "41.9.200.95",
+            "created_at": "2023-08-31 09:34:29"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 253,
+        "fields": {
+            "ad": 991,
+            "ip": "148.237.83.88",
+            "created_at": "2023-12-09 17:44:19"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 254,
+        "fields": {
+            "ad": 620,
+            "ip": "254.78.50.19",
+            "created_at": "2023-04-08 04:19:09"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 255,
+        "fields": {
+            "ad": 278,
+            "ip": "14.12.105.219",
+            "created_at": "2023-07-07 21:18:22"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 256,
+        "fields": {
+            "ad": 862,
+            "ip": "54.119.184.203",
+            "created_at": "2023-05-23 08:31:20"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 257,
+        "fields": {
+            "ad": 143,
+            "ip": "230.209.103.33",
+            "created_at": "2023-01-15 05:21:31"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 258,
+        "fields": {
+            "ad": 891,
+            "ip": "69.17.71.100",
+            "created_at": "2023-07-04 17:33:37"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 259,
+        "fields": {
+            "ad": 539,
+            "ip": "125.213.45.49",
+            "created_at": "2023-12-04 13:29:04"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 260,
+        "fields": {
+            "ad": 254,
+            "ip": "99.56.46.52",
+            "created_at": "2023-02-25 19:38:18"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 261,
+        "fields": {
+            "ad": 343,
+            "ip": "134.124.117.162",
+            "created_at": "2023-02-03 03:36:00"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 262,
+        "fields": {
+            "ad": 457,
+            "ip": "50.233.161.216",
+            "created_at": "2023-10-12 23:44:15"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 263,
+        "fields": {
+            "ad": 915,
+            "ip": "100.33.72.109",
+            "created_at": "2024-01-03 17:05:45"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 264,
+        "fields": {
+            "ad": 479,
+            "ip": "172.214.32.102",
+            "created_at": "2023-01-26 00:31:02"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 265,
+        "fields": {
+            "ad": 163,
+            "ip": "126.249.103.80",
+            "created_at": "2023-04-24 12:34:37"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 266,
+        "fields": {
+            "ad": 429,
+            "ip": "147.106.172.248",
+            "created_at": "2023-02-17 02:21:01"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 267,
+        "fields": {
+            "ad": 964,
+            "ip": "5.79.116.210",
+            "created_at": "2023-08-17 21:18:32"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 268,
+        "fields": {
+            "ad": 805,
+            "ip": "137.249.199.242",
+            "created_at": "2023-01-21 22:48:08"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 269,
+        "fields": {
+            "ad": 922,
+            "ip": "154.6.31.213",
+            "created_at": "2023-03-08 21:56:14"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 270,
+        "fields": {
+            "ad": 713,
+            "ip": "76.82.203.239",
+            "created_at": "2023-03-17 05:06:37"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 271,
+        "fields": {
+            "ad": 799,
+            "ip": "40.196.125.165",
+            "created_at": "2023-08-26 13:31:54"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 272,
+        "fields": {
+            "ad": 592,
+            "ip": "237.132.55.245",
+            "created_at": "2023-04-21 23:16:24"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 273,
+        "fields": {
+            "ad": 238,
+            "ip": "242.64.19.249",
+            "created_at": "2023-08-01 13:26:14"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 274,
+        "fields": {
+            "ad": 621,
+            "ip": "115.16.232.223",
+            "created_at": "2023-04-02 09:58:04"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 275,
+        "fields": {
+            "ad": 39,
+            "ip": "241.246.232.160",
+            "created_at": "2023-09-21 23:10:46"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 276,
+        "fields": {
+            "ad": 478,
+            "ip": "81.54.228.138",
+            "created_at": "2023-11-17 08:23:48"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 277,
+        "fields": {
+            "ad": 862,
+            "ip": "137.13.146.76",
+            "created_at": "2023-04-04 00:17:19"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 278,
+        "fields": {
+            "ad": 454,
+            "ip": "209.120.98.30",
+            "created_at": "2023-02-07 02:05:55"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 279,
+        "fields": {
+            "ad": 772,
+            "ip": "230.2.196.215",
+            "created_at": "2023-01-07 08:55:36"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 280,
+        "fields": {
+            "ad": 351,
+            "ip": "221.38.66.228",
+            "created_at": "2023-05-06 09:44:15"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 281,
+        "fields": {
+            "ad": 866,
+            "ip": "235.72.132.6",
+            "created_at": "2023-07-24 22:46:01"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 282,
+        "fields": {
+            "ad": 929,
+            "ip": "122.236.251.172",
+            "created_at": "2023-07-27 22:53:03"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 283,
+        "fields": {
+            "ad": 131,
+            "ip": "19.16.104.17",
+            "created_at": "2023-02-16 17:27:05"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 284,
+        "fields": {
+            "ad": 945,
+            "ip": "107.6.99.49",
+            "created_at": "2023-01-28 13:36:17"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 285,
+        "fields": {
+            "ad": 172,
+            "ip": "150.218.61.34",
+            "created_at": "2023-07-11 04:29:24"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 286,
+        "fields": {
+            "ad": 799,
+            "ip": "77.34.49.13",
+            "created_at": "2023-05-02 15:06:53"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 287,
+        "fields": {
+            "ad": 311,
+            "ip": "101.183.189.109",
+            "created_at": "2023-04-12 21:37:23"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 288,
+        "fields": {
+            "ad": 183,
+            "ip": "150.236.164.30",
+            "created_at": "2023-10-25 06:39:11"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 289,
+        "fields": {
+            "ad": 692,
+            "ip": "173.166.165.138",
+            "created_at": "2023-04-09 21:38:39"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 290,
+        "fields": {
+            "ad": 742,
+            "ip": "132.37.133.172",
+            "created_at": "2023-02-10 04:16:39"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 291,
+        "fields": {
+            "ad": 4,
+            "ip": "199.120.192.18",
+            "created_at": "2023-01-27 18:55:17"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 292,
+        "fields": {
+            "ad": 854,
+            "ip": "155.92.169.66",
+            "created_at": "2023-09-20 13:01:29"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 293,
+        "fields": {
+            "ad": 14,
+            "ip": "247.71.67.90",
+            "created_at": "2023-04-16 07:58:42"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 294,
+        "fields": {
+            "ad": 562,
+            "ip": "210.3.1.172",
+            "created_at": "2023-04-19 10:32:50"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 295,
+        "fields": {
+            "ad": 594,
+            "ip": "157.141.226.116",
+            "created_at": "2023-12-28 11:03:29"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 296,
+        "fields": {
+            "ad": 559,
+            "ip": "90.221.132.101",
+            "created_at": "2023-12-16 22:31:23"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 297,
+        "fields": {
+            "ad": 390,
+            "ip": "51.66.248.198",
+            "created_at": "2023-10-19 18:04:05"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 298,
+        "fields": {
+            "ad": 113,
+            "ip": "162.73.244.221",
+            "created_at": "2023-10-08 22:43:28"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 299,
+        "fields": {
+            "ad": 154,
+            "ip": "198.116.210.51",
+            "created_at": "2023-09-28 17:17:09"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 300,
+        "fields": {
+            "ad": 841,
+            "ip": "240.93.59.64",
+            "created_at": "2023-01-28 17:11:40"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 301,
+        "fields": {
+            "ad": 748,
+            "ip": "75.98.138.49",
+            "created_at": "2023-08-17 19:00:25"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 302,
+        "fields": {
+            "ad": 307,
+            "ip": "176.124.147.122",
+            "created_at": "2023-10-13 08:59:31"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 303,
+        "fields": {
+            "ad": 380,
+            "ip": "110.148.244.150",
+            "created_at": "2023-02-10 04:56:53"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 304,
+        "fields": {
+            "ad": 771,
+            "ip": "150.164.151.150",
+            "created_at": "2024-01-03 03:50:11"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 305,
+        "fields": {
+            "ad": 281,
+            "ip": "168.88.73.142",
+            "created_at": "2023-01-10 02:54:24"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 306,
+        "fields": {
+            "ad": 656,
+            "ip": "5.83.191.98",
+            "created_at": "2023-12-03 10:09:17"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 307,
+        "fields": {
+            "ad": 137,
+            "ip": "241.192.238.166",
+            "created_at": "2023-03-24 23:04:34"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 308,
+        "fields": {
+            "ad": 364,
+            "ip": "96.182.211.173",
+            "created_at": "2023-03-12 03:44:13"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 309,
+        "fields": {
+            "ad": 210,
+            "ip": "242.13.233.239",
+            "created_at": "2023-03-01 17:44:54"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 310,
+        "fields": {
+            "ad": 167,
+            "ip": "18.225.159.207",
+            "created_at": "2023-03-04 21:10:40"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 311,
+        "fields": {
+            "ad": 993,
+            "ip": "153.212.181.28",
+            "created_at": "2023-10-23 09:12:44"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 312,
+        "fields": {
+            "ad": 806,
+            "ip": "214.49.143.75",
+            "created_at": "2023-10-23 02:58:15"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 313,
+        "fields": {
+            "ad": 764,
+            "ip": "90.63.215.228",
+            "created_at": "2023-06-19 09:00:42"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 314,
+        "fields": {
+            "ad": 218,
+            "ip": "240.77.60.216",
+            "created_at": "2023-05-22 12:15:32"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 315,
+        "fields": {
+            "ad": 271,
+            "ip": "200.112.147.88",
+            "created_at": "2023-08-15 05:09:12"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 316,
+        "fields": {
+            "ad": 442,
+            "ip": "221.12.0.2",
+            "created_at": "2023-09-23 04:17:47"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 317,
+        "fields": {
+            "ad": 741,
+            "ip": "132.183.156.216",
+            "created_at": "2023-04-11 05:30:57"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 318,
+        "fields": {
+            "ad": 311,
+            "ip": "152.15.136.178",
+            "created_at": "2023-07-11 04:03:27"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 319,
+        "fields": {
+            "ad": 113,
+            "ip": "171.225.24.194",
+            "created_at": "2023-03-29 08:47:52"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 320,
+        "fields": {
+            "ad": 809,
+            "ip": "71.161.239.226",
+            "created_at": "2023-09-24 04:37:29"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 321,
+        "fields": {
+            "ad": 255,
+            "ip": "113.100.170.83",
+            "created_at": "2023-11-15 15:22:04"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 322,
+        "fields": {
+            "ad": 344,
+            "ip": "102.41.218.69",
+            "created_at": "2023-03-15 12:01:34"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 323,
+        "fields": {
+            "ad": 644,
+            "ip": "124.228.249.165",
+            "created_at": "2023-02-12 19:23:02"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 324,
+        "fields": {
+            "ad": 690,
+            "ip": "243.121.211.99",
+            "created_at": "2023-09-03 00:37:01"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 325,
+        "fields": {
+            "ad": 673,
+            "ip": "173.101.63.139",
+            "created_at": "2023-07-02 05:40:30"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 326,
+        "fields": {
+            "ad": 4,
+            "ip": "94.230.161.231",
+            "created_at": "2023-02-20 14:09:57"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 327,
+        "fields": {
+            "ad": 399,
+            "ip": "75.150.233.49",
+            "created_at": "2023-01-21 13:59:55"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 328,
+        "fields": {
+            "ad": 289,
+            "ip": "129.186.174.208",
+            "created_at": "2023-03-22 14:27:52"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 329,
+        "fields": {
+            "ad": 3,
+            "ip": "225.180.114.208",
+            "created_at": "2023-06-18 09:37:24"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 330,
+        "fields": {
+            "ad": 262,
+            "ip": "4.180.122.205",
+            "created_at": "2023-06-02 21:13:21"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 331,
+        "fields": {
+            "ad": 904,
+            "ip": "205.26.103.49",
+            "created_at": "2023-03-07 04:42:37"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 332,
+        "fields": {
+            "ad": 292,
+            "ip": "108.234.208.253",
+            "created_at": "2023-08-03 12:50:07"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 333,
+        "fields": {
+            "ad": 576,
+            "ip": "43.146.129.155",
+            "created_at": "2023-03-14 23:34:12"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 334,
+        "fields": {
+            "ad": 858,
+            "ip": "102.56.170.185",
+            "created_at": "2023-01-09 23:40:26"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 335,
+        "fields": {
+            "ad": 300,
+            "ip": "29.163.54.223",
+            "created_at": "2023-12-28 23:14:48"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 336,
+        "fields": {
+            "ad": 628,
+            "ip": "115.92.118.228",
+            "created_at": "2023-12-27 23:25:42"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 337,
+        "fields": {
+            "ad": 847,
+            "ip": "82.174.85.173",
+            "created_at": "2023-07-06 20:20:00"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 338,
+        "fields": {
+            "ad": 912,
+            "ip": "30.190.105.197",
+            "created_at": "2023-09-18 09:49:17"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 339,
+        "fields": {
+            "ad": 830,
+            "ip": "221.231.227.207",
+            "created_at": "2023-10-13 14:46:26"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 340,
+        "fields": {
+            "ad": 489,
+            "ip": "64.195.252.210",
+            "created_at": "2023-02-10 17:21:38"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 341,
+        "fields": {
+            "ad": 389,
+            "ip": "15.126.128.239",
+            "created_at": "2023-10-21 02:26:33"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 342,
+        "fields": {
+            "ad": 329,
+            "ip": "118.139.17.228",
+            "created_at": "2023-05-15 02:47:04"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 343,
+        "fields": {
+            "ad": 353,
+            "ip": "71.234.209.130",
+            "created_at": "2023-09-22 16:41:29"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 344,
+        "fields": {
+            "ad": 515,
+            "ip": "158.81.31.228",
+            "created_at": "2023-04-28 14:49:50"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 345,
+        "fields": {
+            "ad": 806,
+            "ip": "42.139.170.140",
+            "created_at": "2023-06-01 02:39:16"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 346,
+        "fields": {
+            "ad": 737,
+            "ip": "139.2.189.3",
+            "created_at": "2023-03-30 12:02:00"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 347,
+        "fields": {
+            "ad": 140,
+            "ip": "234.52.163.78",
+            "created_at": "2023-03-27 14:13:59"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 348,
+        "fields": {
+            "ad": 451,
+            "ip": "98.232.105.22",
+            "created_at": "2023-10-28 08:16:54"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 349,
+        "fields": {
+            "ad": 442,
+            "ip": "210.198.193.204",
+            "created_at": "2023-10-19 20:03:30"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 350,
+        "fields": {
+            "ad": 533,
+            "ip": "1.220.57.206",
+            "created_at": "2023-12-14 16:06:47"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 351,
+        "fields": {
+            "ad": 47,
+            "ip": "244.39.174.246",
+            "created_at": "2023-10-06 02:55:25"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 352,
+        "fields": {
+            "ad": 980,
+            "ip": "252.188.190.41",
+            "created_at": "2023-05-24 12:00:48"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 353,
+        "fields": {
+            "ad": 397,
+            "ip": "183.184.136.225",
+            "created_at": "2023-10-12 23:53:58"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 354,
+        "fields": {
+            "ad": 664,
+            "ip": "207.106.44.255",
+            "created_at": "2023-11-14 20:27:03"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 355,
+        "fields": {
+            "ad": 757,
+            "ip": "181.56.27.89",
+            "created_at": "2023-12-06 16:13:48"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 356,
+        "fields": {
+            "ad": 559,
+            "ip": "14.206.191.40",
+            "created_at": "2023-08-05 09:45:39"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 357,
+        "fields": {
+            "ad": 931,
+            "ip": "232.224.226.172",
+            "created_at": "2023-12-24 01:09:09"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 358,
+        "fields": {
+            "ad": 832,
+            "ip": "14.62.52.182",
+            "created_at": "2023-06-30 03:56:49"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 359,
+        "fields": {
+            "ad": 525,
+            "ip": "29.138.130.218",
+            "created_at": "2023-04-12 07:07:02"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 360,
+        "fields": {
+            "ad": 505,
+            "ip": "200.32.205.234",
+            "created_at": "2023-02-04 14:51:10"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 361,
+        "fields": {
+            "ad": 123,
+            "ip": "163.219.145.180",
+            "created_at": "2023-11-23 12:38:46"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 362,
+        "fields": {
+            "ad": 789,
+            "ip": "200.216.125.48",
+            "created_at": "2023-10-17 01:48:44"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 363,
+        "fields": {
+            "ad": 765,
+            "ip": "150.30.19.55",
+            "created_at": "2023-11-20 00:40:34"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 364,
+        "fields": {
+            "ad": 676,
+            "ip": "167.212.20.117",
+            "created_at": "2023-01-17 08:07:50"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 365,
+        "fields": {
+            "ad": 68,
+            "ip": "148.177.70.253",
+            "created_at": "2023-08-28 11:56:14"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 366,
+        "fields": {
+            "ad": 803,
+            "ip": "2.143.250.30",
+            "created_at": "2023-08-06 10:34:06"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 367,
+        "fields": {
+            "ad": 366,
+            "ip": "203.33.9.88",
+            "created_at": "2023-06-21 18:44:30"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 368,
+        "fields": {
+            "ad": 843,
+            "ip": "77.118.162.200",
+            "created_at": "2023-07-01 10:51:04"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 369,
+        "fields": {
+            "ad": 430,
+            "ip": "10.147.253.189",
+            "created_at": "2023-05-01 23:08:05"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 370,
+        "fields": {
+            "ad": 997,
+            "ip": "24.190.5.243",
+            "created_at": "2023-08-14 08:50:00"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 371,
+        "fields": {
+            "ad": 177,
+            "ip": "97.126.208.199",
+            "created_at": "2023-04-08 23:01:48"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 372,
+        "fields": {
+            "ad": 212,
+            "ip": "39.96.217.205",
+            "created_at": "2023-06-25 05:06:19"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 373,
+        "fields": {
+            "ad": 80,
+            "ip": "74.180.170.242",
+            "created_at": "2023-07-13 19:19:35"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 374,
+        "fields": {
+            "ad": 401,
+            "ip": "220.44.154.69",
+            "created_at": "2023-03-12 05:06:33"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 375,
+        "fields": {
+            "ad": 614,
+            "ip": "16.215.172.214",
+            "created_at": "2023-07-05 00:07:17"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 376,
+        "fields": {
+            "ad": 44,
+            "ip": "165.118.212.48",
+            "created_at": "2024-01-05 04:31:31"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 377,
+        "fields": {
+            "ad": 152,
+            "ip": "3.230.105.218",
+            "created_at": "2023-05-04 16:39:04"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 378,
+        "fields": {
+            "ad": 344,
+            "ip": "135.114.168.32",
+            "created_at": "2023-04-13 13:35:15"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 379,
+        "fields": {
+            "ad": 148,
+            "ip": "60.156.39.251",
+            "created_at": "2023-05-15 05:54:42"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 380,
+        "fields": {
+            "ad": 164,
+            "ip": "2.162.144.129",
+            "created_at": "2023-02-14 05:43:02"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 381,
+        "fields": {
+            "ad": 994,
+            "ip": "5.245.131.241",
+            "created_at": "2023-05-05 23:02:52"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 382,
+        "fields": {
+            "ad": 679,
+            "ip": "59.51.94.76",
+            "created_at": "2023-04-04 19:23:33"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 383,
+        "fields": {
+            "ad": 747,
+            "ip": "107.209.26.149",
+            "created_at": "2023-08-04 08:25:38"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 384,
+        "fields": {
+            "ad": 291,
+            "ip": "93.183.218.47",
+            "created_at": "2023-02-15 10:03:24"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 385,
+        "fields": {
+            "ad": 45,
+            "ip": "34.78.93.53",
+            "created_at": "2023-04-11 14:05:23"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 386,
+        "fields": {
+            "ad": 866,
+            "ip": "239.186.57.182",
+            "created_at": "2023-11-04 12:01:54"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 387,
+        "fields": {
+            "ad": 527,
+            "ip": "17.83.239.17",
+            "created_at": "2023-03-13 11:54:19"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 388,
+        "fields": {
+            "ad": 581,
+            "ip": "100.88.209.231",
+            "created_at": "2023-06-09 22:10:56"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 389,
+        "fields": {
+            "ad": 411,
+            "ip": "178.140.53.65",
+            "created_at": "2023-04-04 14:32:47"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 390,
+        "fields": {
+            "ad": 552,
+            "ip": "139.105.20.77",
+            "created_at": "2023-01-18 03:00:30"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 391,
+        "fields": {
+            "ad": 743,
+            "ip": "232.70.244.36",
+            "created_at": "2023-02-27 17:27:14"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 392,
+        "fields": {
+            "ad": 429,
+            "ip": "187.145.17.251",
+            "created_at": "2023-06-29 00:23:10"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 393,
+        "fields": {
+            "ad": 229,
+            "ip": "56.178.235.161",
+            "created_at": "2023-11-27 05:36:49"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 394,
+        "fields": {
+            "ad": 15,
+            "ip": "60.122.139.46",
+            "created_at": "2023-09-09 18:09:34"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 395,
+        "fields": {
+            "ad": 681,
+            "ip": "37.128.30.207",
+            "created_at": "2023-09-24 23:09:06"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 396,
+        "fields": {
+            "ad": 413,
+            "ip": "121.170.93.62",
+            "created_at": "2023-09-15 16:23:52"
+        }
+    },
+    {
+        "model": "advertiser_management.adclick",
+        "pk": 397,
+        "fields": {
+            "ad": 506,
+            "ip": "243.121.201.47",
+            "created_at": "2023-07-25 23:07:30"
+        }
+    }
+]
